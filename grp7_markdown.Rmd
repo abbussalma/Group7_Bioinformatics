@@ -1,0 +1,17 @@
+---
+title: "Group7_markdown"
+Date: 27/11/2021
+output: html_document
+author: Group7_memberS
+
+Course_code: ANA4315
+
+Course_title: INTRODUCTION TO INFORMATION TECHNOLOGY AND BIOINFORMATICS
+
+Assignment by group7 members
+
+CONTRIBUTORS: All the members contribute perfectly
+
+ESSENTIAL INFORMATION: Bioinformatics is the collection, storate, classification and analysis of biochemical and biological information using computers whice are applied to molecular genetics and genomics
+
+
