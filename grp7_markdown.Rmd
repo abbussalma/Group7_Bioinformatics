@@ -12,6 +12,6 @@ Assignment by group7 members
 
 CONTRIBUTORS: All the members contribute perfectly
 
-ESSENTIAL INFORMATION: Bioinformatics is the collection, storate, classification and analysis of biochemical and biological information using computers whice are applied to molecular genetics and genomics
-
-
+ESSENTIAL INFORMATION: Bioinformatics is the collection, storate, classification and analysis of biochemical and biological information using computers whice are applied to molecular genetics and genomics.
+  Bioinformatics is also an interdisplinary field that develops software methods and tools to understant biological data, especialy if the record are large and complex. As an area of interdisplinary science, bioinformatics combines biology, information technology, mathematics and statistics to analyze and interpret biological data. Bioinformatics was used in silico analyzes of biological consultation with mathematical techniques and statistics. Bioinformatics includes biological studies that use computer schedule as part of its methodology, as well as a "pipelines" that are repetedly used, especially in the field of Genomics.         Common used of bioinformtics include identifying candidate genes and individual nucleotide polymorphisms (SNP). This identification is carried out with the aim of better understaanding the genetic basis of the disease, unique adjustment, desirable properties or differences between the population groups. 
+     Bioinformatics tries less formal ways to understand organizational principles in nucleic acid and protein sequences, which is called proteomic
