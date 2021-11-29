@@ -1,10 +1,11 @@
 # INTRODUCTION TO BIOINFORMATICS TEST BY GROUP 7
 
-## GROUP NAME: 7
+## GROUP NAME: 
+Group 7 Bioinformatics
 
 ## ABOUT THE GROUP
 
-The group comprises  about 15 members of anatommy department 400L. Which work under the leading of Umar Muhammad, which work together in order to archive the success of the work using different types of programming languages e.g Python, R, Bash e.t.c
+Is a group one in which  comprises  about 15 members of anatommy department 400L, work under the leading of Umar Muhammad, which work together in order to archive the success of the work using different types of programming languages e.g Python, R, Bash e.t.c
 
 ## NAMES OF ALL MEMBERS OF THE GROUP:
 
@@ -37,20 +38,20 @@ Abdussalam Aisha Musa
 | Sulaiman Ahmad  | Java  |
 | Ismail Haladu Aliyu  | java  |
 | Abdulazeez Yunusa | R  |
-| Tamar Dauda  | Ruby  |
+| Tamar Dauda  | C++  |
 | Shabbiru yushau Haruna  | C++  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Saratu Shuaibu  | Python  |
+| Abdulbasid Jibrin Muhd  | Java  |
+| Mustpha  Maijamaa Ladan  | Not Submitted  |
+
 
 ## W0RKFLOW
 
 ![Group7 workflow-page0001](https://user-images.githubusercontent.com/94013467/143781333-e48d7cd0-2a44-4a0d-abad-e9a8a5d2e355.jpg)
 
-## HELP: 
+## HELP:
 
-The work was archieve with the help of some group member and other personel toward the archievement of the work.
+The work was archieved by consulting Youtube, Internet browser and using some code,  with the help of some group members and other personel toward the archievement of the work.
 
 ## ACKNOWLEDGMENT:
 
@@ -90,5 +91,5 @@ Ismail Haladu Aliyu
 ![tamar](https://user-images.githubusercontent.com/94013467/143778186-e18ae284-7110-408c-88c8-5a820c17193b.jpg)
 Tamar  Chongdah Dauda
 
-
-
+![abdul](https://user-images.githubusercontent.com/94013467/143958213-303538e8-6cab-4578-9971-311b34c6a827.jpg)
+Abdulbasid Jibrin Muhd
