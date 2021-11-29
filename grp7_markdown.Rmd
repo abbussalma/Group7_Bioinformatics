@@ -12,7 +12,7 @@ Umar Muhammad
 Sulaiman Ibrahim
 Anas Rabiu Mohammed
 Asmau Aliyu 
-Aisha Abdussalam  
+Abdulbasid Jibrin Muhd 
 Ismail Aliyu Zadawa 
 Kawure Abdullahi  
 Sulaiman Ahmad 
@@ -38,7 +38,7 @@ Abdussalam Aisha Musa
 | Ismail Haladu Aliyu  | java  |
 | Abdulazeez Yunusa | R  |
 | Tamar Dauda  | Ruby  |
-| Content Cell  | Content Cell  |
+| Shabbiru yushau Haruna  | C++  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
