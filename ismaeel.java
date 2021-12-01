@@ -1,8 +1,12 @@
-public class ismaeel {
+#!/usr/local/bin/node
+// this script prints my personal detail
 
- public static void main(String[] args) {
-  System.out.println("Name:Ismail Haladu Aliyu\nEmail: ismaeelkhaleedali@gmail.com\n Slack Username: @ismailhaladualiyu\n Area of Interest: Genomics");
- }
+// assigning some variables of my personal information  
+var Name = "Ismail Haladu Aliyu";
+var Email = "ismaeelkhaleedali@gmail.com";
+var Slack_Username = "@ismailhaladualiyu";
+var Area_of_Interest = "Genomics";
+ 
 
-}
+console.log (name +', ' + email + ',  '+ slack +', '+ area);
 
