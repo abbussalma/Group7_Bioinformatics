@@ -1,0 +1,33 @@
+#!/usr/bin/php
+
+
+<?php
+$ Name = 'Tamar Chongdah Dauda';
+$ Email = 'tamarchongdahdauda@gmail.com'
+$ Slack id = '@tamar_chongdah_dauda'
+$ Area of interest = 'Genomics'
+
+echo "$name, $email, $slack, $area ";
+
+?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
