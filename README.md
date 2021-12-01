@@ -4,7 +4,7 @@
 Group 7 Bioinformatics
 
 ## ABOUT THE GROUP
-This is a repository for the duty ascribe to group 7 over the 4 days test for bioinformatics in the year 2021. It is a group test. Any member will join the repository and do the task that was given to him. This repository is belongs to group seven (7) members to work on the assignments. This README.md hold fact about the names of the members of this Group 7. All names of the members was added, and the programming languages they used, for example R, PHP, C++, etc 
+This is a repository for the duty ascribe to group 7 over the 4 days test for bioinformatics in the year 2021. It is a group test, all the members has join the repository and do the task that was given to them. This repository is belongs to group seven (7) members to work on the test. This README.md hold fact about the names of the members of this Group 7, and the programming languages they used in a tabular form, for example R, PHP, C++, etc 
 
 
 ## NAMES OF ALL MEMBERS OF THE GROUP:
