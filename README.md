@@ -65,7 +65,7 @@ Abdussalam Aisha Musa
 
 ## HELP:
 
-The work was archieved by consulting Youtube, Internet browser and using some code,  with the help of some group members and other personel toward the archievement of the work.
+To enforce the scripts from this repository, a standard script is furnished that includes facts on cloning the repository itself. Using git clone observed through the hyperlink to the repository permits you to clone. Upon cloning, it's going to offer command to extrade the listing from the contemporary repository to the group 7 bioinformatics Repository. To execute the scripts, you want to feature rights to execute which may be finished through chmod +x script. A for loop is furnished that facilitates loop thru every and each script and execute as consistent with the instructions inside the loop.
 
 ## ACKNOWLEDGMENT:
 
