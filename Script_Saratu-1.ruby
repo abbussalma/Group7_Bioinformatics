@@ -1,8 +1,8 @@
-#!/usr/bin/ruby
+#!/usr/bin/env bash
 
 
 
-puts 'Saratu Shuaibu, Email:saratushuaibu2017@gmail.com,Slack_username:@Saratu_Shuaibu, Area of interest:"Genomics"
+echo "Saratu Shuaibu,saratushuaibu2017@gmail.com,@Saratu_Shuaibu,Genomics"
 
 
 
