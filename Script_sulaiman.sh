@@ -1,5 +1,3 @@
-#!/usr/bin/bash
-Name: Sulaiman_Ibrahim
-Email: sulaimanibrahim399@gmail.com
-Slack id: @sulaiman_Ibrahim
-Area of interest: Genomics
+#!/usr/bin/env bash
+
+echo "Sulaiman_Ibrahim,sulaimanibrahim399@gmail.com,@sulaiman_Ibrahim,Genomics"
