@@ -1,3 +1,0 @@
-/usr/bin/ruby
-
-echo"shabiru yushau haruna,yushauharuna@gmail.com,@yushau_haruna,metagenomics"
