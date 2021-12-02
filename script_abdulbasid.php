@@ -1,11 +1,3 @@
-#!/usr/bin/php
+#!/usr/bin/env bash
 
-
-<?php
-$Name = 'Abdulbasid Jibrin Muhd';
-$email = 'abdulbasidjibrinmuhd@gmail.com';
-$Slack = '@abdulbasid_jibrin_muhd';
-$Area = 'Genomics';
-
-echo "$name, $email, $slack, $area";
-?>
+echo "Abdulbasid Jibrin Muhd,abdulbasidjibrinmuhd@gmail.com,@abdulbasid_jibrin_muhd,Genomics"
