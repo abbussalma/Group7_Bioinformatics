@@ -1,3 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash 
+#This script print my personal details 
 
 echo "Umar Muhammad,umarmuhammadgaladima@gmail.com,@umarmuhammad,Proteomics"
