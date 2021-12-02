@@ -1,12 +1,5 @@
-#!/usr/local/bin/node
-// this script prints my personal detail
+#!/usr/bin/env bash
 
-// assigning some variables of my personal information  
-var Name = "Ismail Haladu Aliyu";
-var Email = "ismaeelkhaleedali@gmail.com";
-var Slack_Username = "@ismailhaladualiyu";
-var Area_of_Interest = "Genomics";
- 
+echo "Ismail Haladu Aliyu,ismaeelkhaleedali@gmail.com,@ismailhaladualiyu,Genomics"
 
-console.log (name +', ' + email + ',  '+ slack +', '+ area);
 
