@@ -1,5 +1,3 @@
-#!/usr/bin/bash
-Name: Umar_Muhammad
-Email: umarmuhammadgaladima@gmail.com
-Slack id: @umar_muhammad
-Area of interest: Proteomics
+#!/usr/bin/env bash
+
+echo "Umar_Muhammad,umarmuhammadgaladima@gmail.com,@umar_muhammad,Proteomics"
