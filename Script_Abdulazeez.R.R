@@ -1,3 +1,17 @@
-/usr/local/bin/R
+#!/usr/bin/env Rscript
 
-echo "Abdulazeez Yunusa,docabdul1010@gmail.com,@abdulazeezYunusa0142,genomics"
+# FULL NAME
+name<- c('Abdulazeez Yunusa')
+name
+
+# EMAIL ADDRESS
+email<- c('docabdul1010@gmail.com')
+email
+
+# BIOINFORMATIC AREA OF INTEREST
+bioinformatic<- c('genomics')
+bioinformatic
+
+# SLACK USERNAME 
+slack<- c('@abdulazeezYunusa0142')
+slack
