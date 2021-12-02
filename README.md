@@ -54,7 +54,7 @@ Abdussalam Aisha Musa
 | Abdulazeez Yunusa | R  |
 | Tamar Dauda  | C++  |
 | Shabbiru yushau Haruna  | C++  |
-| Saratu Shuaibu  | Python  |
+| Saratu Shuaibu  | Ruby  |
 | Abdulbasid Jibrin Muhd  | Java  |
 | Mustpha  Maijamaa Ladan  | Not Submitted  |
 
