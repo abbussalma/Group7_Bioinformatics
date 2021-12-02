@@ -1,4 +1,3 @@
-Name: Sulaiman Ibrahim
-Email: sulaimanibrahim399@gmail.com
-Slack id: @sulaimanibrahim
-Area of interest: Genomics
+#!/usr/bin/env bash
+
+echo "Sulaiman Ibrahim,sulaimanibrahim399@gmail,@sulaimanibrahim,Genomics"
