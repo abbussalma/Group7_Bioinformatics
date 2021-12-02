@@ -1,3 +1,5 @@
-#!/usr/bin/env bash
+/usr/local/bin/R
 
-echo "Abdulazeez Yunusa,docabdul1010@gmail.com,@abdulazeezyunusa,systemic biology"
+print "Abdulazeez Yunusa,docabdul1010@gmail.com,@abdulazeezyunusa,systemic biology"
+
+
