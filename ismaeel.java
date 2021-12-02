@@ -1,8 +1,3 @@
-public class ismaeel {
+#!/usr/bin/env bash
 
- public static void main(String[] args) {
-  System.out.println("Name:Ismail Haladu Aliyu\nEmail: ismaeelkhaleedali@gmail.com\n Slack Username: @ismailhaladualiyu\n Area of Interest: Genomics");
- }
-
-}
-
+echo "Ismail Haladu Aliyu,ismaeelkhaleedali@gmail.com,@ismailhaladualiyu,Genomics"
