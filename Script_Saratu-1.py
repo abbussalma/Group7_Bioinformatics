@@ -1,9 +1,10 @@
-#!/usr/bin/python
-#<-----------Saratu Project------------>
-print("\t-------------BIOINFORMATICS SCRIPT---------------\n")
+#!/usr/bin/ruby
 
-print("\t\tHello Saratu Shuaibu, below are your informations:\n")
-print("Name: " + "\t\t\t" + "Saratu Shuaibu")
-print("Email: " + "\t\t\t"+ "saratushuaibu2017@gmail.com")
-print("Slack_username: " + "\t" + "@Saratu_Shuaibu")
-print("Area of interest: " + "\t" + "Genomics")
+
+
+puts 'Saratu Shuaibu, Email:saratushuaibu2017@gmail.com,Slack_username:@Saratu_Shuaibu, Area of interest:"Genomics"
+
+
+
+
+
