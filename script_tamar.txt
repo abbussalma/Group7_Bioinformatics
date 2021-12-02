@@ -1,16 +1,6 @@
-#!/usr/bin/php
+#!/usr/bin/env bash 
 
-
-<?php
-$ Name = 'Tamar Chongdah Dauda';
-$ Email = 'tamarchongdahdauda@gmail.com'
-$ Slack id = '@tamar_chongdah_dauda'
-$ Area of interest = 'Genomics'
-
-echo "$name, $email, $slack, $area ";
-
-?>
-
+echo "Tamar Chongdah Dauda,tamarchongdahdauda@gmail.com,@tamar_chongdah_dauda,Genomics"
 
 
 
